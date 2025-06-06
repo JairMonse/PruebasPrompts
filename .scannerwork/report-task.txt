@@ -1,0 +1,6 @@
+projectKey=PruebasPrompts
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=PruebasPrompts
+ceTaskId=18f660a3-eced-44ea-988d-02dbcbe9ee62
+ceTaskUrl=http://localhost:9000/api/ce/task?id=18f660a3-eced-44ea-988d-02dbcbe9ee62
