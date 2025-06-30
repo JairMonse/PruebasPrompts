@@ -1,3 +1,0 @@
-
-Implementa el algoritmo de ordenamiento por burbuja en [LENGUAJE].
- La función debe recibir una estructura de datos de números enteros y retornar la estructura ordenada de menor a mayor.

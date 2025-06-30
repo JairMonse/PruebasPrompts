@@ -10,3 +10,4 @@ if __name__ == "__main__":
     entrada = input("Ingrese números separados por espacios: ")
     numeros = list(map(int, entrada.strip().split()))
     print("Lista ordenada:", bubble_sort(numeros))
+
