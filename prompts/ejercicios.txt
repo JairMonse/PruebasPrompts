@@ -1,0 +1,19 @@
+Realiza los siguientes prompts, cada unos de los prompts debe ser realizado con los siguientes lenguajes de programacion, python, java, javascript, c#, c++, typescript:
+
+
+
+1. Algoritmo Básico: Ordenamiento por Burbuja
+
+Implementa el algoritmo de ordenamiento por burbuja en [LENGUAJE]. La función debe recibir una estructura de datos de números enteros y retornar la estructura ordenada de menor a mayor.
+
+2. Estructura de Datos: Pila (Stack)
+
+Crea una clase que represente una pila (stack) en [LENGUAJE]. Debe incluir los métodos push, pop y un método para verificar si la pila está vacía. Permite que el usuario agregue y quite elementos interactuando.
+
+3. Patrón de Diseño: Singleton
+
+Implementa el patrón de diseño Singleton en [LENGUAJE]. La clase debe permitir que solo se cree una instancia y proporcionar un método estático para obtenerla. Demuestra cómo probar que la instancia es la misma al llamarla varias veces.
+
+4. Desarrollo Web: Endpoint RESTful
+
+Crea un endpoint RESTful en [LENGUAJE] que reciba una petición con un parámetro “nombre” y retorne un saludo personalizado (por ejemplo: “Hola, Juan”). Demuestra cómo probar el endpoint.
